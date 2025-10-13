@@ -1,1 +1,3 @@
-# www.chuty_girl-.com
+# www.chuty_girl-.com  
+
+https://www.jetbrains.com/pycharm/
